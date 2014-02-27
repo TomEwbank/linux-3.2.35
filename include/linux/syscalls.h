@@ -858,3 +858,5 @@ asmlinkage long sys_process_vm_writev(pid_t pid,
 				      unsigned long flags);
 
 #endif
+
+asmlinkage int sys_setgreentask(pid_t pid); // Added
