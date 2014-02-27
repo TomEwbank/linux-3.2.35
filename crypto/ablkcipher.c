@@ -1,5 +1,4 @@
 /*
-*
  * Asynchronous block chaining cipher operations.
  *
  * This is the asynchronous version of blkcipher.c indicating completion
